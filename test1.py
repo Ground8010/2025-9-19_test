@@ -1,0 +1,1 @@
+print("katuragi ri-riya")
